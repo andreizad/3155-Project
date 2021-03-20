@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="UNCC Notes App">
+        <title>BlackJack Notes App - Note {{ note.title }}</title>
+        <!-- styles -->
+        {% if session.get('userpreference') == 'dark' %}
+        <link rel="stylesheet" href="{{ url_for('static', filename='main_dark.css') }}">
+        {% else %}
+        <link rel="stylesheet" href="{{url_for('static', filename='main.css')}}">
+        {% endif %}
+    </head>
+    <body>
+        <div class="topnav">
+            <a href="{{url_for('index')}}">Home</a>
+            <a href="{{url_for('get_notes')}}">Notes</a>
+            <a href="{{ url_for('new_note') }}"> Add Note</a>
+            <a href="{{ url_for('logout') }}" class="search-container">Logout</a>
+        </div>
+        <h1>Note details</h1>
+        <table class="notesTable">
+            <tr>
+                <th>Title</th>
+                <th>Text</th>
+                <th>Date</th>
+            </tr>
+            <tr>
+                <td>{{ note.title }}</td>
+                <td>{{ note.text }}</td>
+                <td>{{ note.date }}</td>
+            </tr>
+        </table><br>
+        {% if note.comments %}
+        {% if note.comments|length > 0 %}
+        <table class="notesTable">
+            <tr>
+                <th>Comments</th>
+                <th>Action</th>
+            </tr>
+            <tr>
+                {% for comment in note.comments %}
+                <td>
+                    {{ comment.content }}
+                </td>
+
+                <td>
+                    <form action="{{url_for('delete_comment', comment_id = comment.id, note_id = note.id)}}" method="post">
+                        <input type="submit" class="sbtbutton" value="Delete">
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </table><br>
+        {% endif %}
+        {% endif %}
+        <form action="{{ url_for('new_comment', note_id=note.id) }}" method="post">
+            <div class="body">
+                <label class="label" for="comment">Add a comment</label>
+                <textarea name="comment" id="comment" class="inputNote" wrap="hard"></textarea>
+
+                <input type="submit" class="sbtbutton" value="Create"/>
+
+            </div>
+        </form>
+    </body>
+</html>
