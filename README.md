@@ -6,15 +6,12 @@ Group project for ITCS 3155
 <p>The notes application is a Content Management System software program that provides an online environment and features for note keepers. While working on this project we use the Agile Method. The project was spit into seven sprints each being one week apart.</p>
 <h2>Table of Contents</h2>
 <ul>
-  <li><h3>Sprint1</h3><li>
-    <li>
-      <ul>
-        <li>1</li>
-        <li>2</li>
-        <li>3</li>
-      </ul>
-    </li>
-
+  <li><h3>Sprint1</h3></li>
+    <ul>
+      <li>1</li>
+      <li>2</li>
+      <li>3</li>
+    </ul>
 </ul>
 
 
