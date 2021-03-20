@@ -24,9 +24,10 @@ Group project for ITCS 3155
         <li>Search Bar</li>
         <li>Change Theme (Dark-Mode) </li>
       </ol>
-      <li>Li-Fi UI Prototype</li>
-      <li>Sprint 1 Documentation</li>
-      <li>Sprint 1 Team Status Report</li>
+      <li>Li-Fi UI Prototype</li><br>
+      <img src = "Sprints/Sprint%201/WireFrame.png"/>
+      <li><a href="Sprints/Sprint%201/Project Milestone (Sprint 1)_ Ethical Considerations _ Front-end Design (Wireframing).docx">Sprint 1 Documentation</a></li>
+      <li><a href="Sprints/Sprint%201/Team Status report 1 - Nov 1.docx">Sprint 1 Team Status Report</a></li>
     </ul>
   
   <li><h3>Sprint2 - SMART User Stories</h3></li>
