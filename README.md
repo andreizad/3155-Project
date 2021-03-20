@@ -43,6 +43,8 @@ Group project for ITCS 3155
       </ul>
     <li><b>SMART User Stories:</b></li>
     <img src = "Sprints/Sprint%202/SMARTUserStories.png"/>
+      <li><a href="Sprints/Sprint%202Sprint2Documentation.pdf">Sprint 1 Documentation</a></li>
+      <li><a href="Sprints/Sprint%202Sprint2StatusReport.pdf">Sprint 1 Team Status Report</a></li>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%203">Sprint3 - Data Flow Diagrams</a></h3></li>
