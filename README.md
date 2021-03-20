@@ -26,8 +26,8 @@ Group project for ITCS 3155
       </ol>
       <li>Li-Fi UI Prototype</li><br>
       <img src = "Sprints/Sprint%201/WireFrame.png"/>
-      <li><a href="Sprints/Sprint%201/Project Milestone (Sprint 1)_ Ethical Considerations _ Front-end Design (Wireframing).docx">Sprint 1 Documentation</a></li>
-      <li><a href="Sprints/Sprint%201/Team Status report 1 - Nov 1.docx">Sprint 1 Team Status Report</a></li>
+      <li><a href="Sprints/Sprint%201/Sprint1Documentation.pdf">Sprint 1 Documentation</a></li>
+      <li><a href="Sprints/Sprint%201/Sprint1StatusReport.pdf</a></li>
     </ul>
   
   <li><h3>Sprint2 - SMART User Stories</h3></li>
