@@ -49,9 +49,17 @@ Group project for ITCS 3155
     
   <li><h3><a href="Sprints/Sprint%203">Sprint3 - Data Flow Diagrams</a></h3></li>
     <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
+      <li>Level 1 Data Flow Model</li>
+      <img src = "Sprints/Sprint%203/Level%201%20Data%20Flow%20and%20Models.jpg"/>
+      <li>Model Prototype</li>
+      <img src = "Sprints/Sprint%203/modelPseudocode.PNG"/>
+      <li>Lo-Fi Updated UI Prototype</li>
+      <img src = "Sprints/Sprint%203/UpdatedUI1.png"/>
+      <img src = "Sprints/Sprint%203/UpdatedUI2.png"/>
+      <img src = "Sprints/Sprint%203/UpdatedUI3.png"/>
+      <img src = "Sprints/Sprint%203/UpdatedUI4.png"/>
+      <img src = "Sprints/Sprint%203/UpdatedUI5.png"/>
+      <img src = "Sprints/Sprint%203/UpdatedUI6.png"/>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%204">Sprint4 - Automated Testing</a></h3></li>
