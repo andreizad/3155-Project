@@ -32,7 +32,7 @@ Group project for ITCS 3155
   
   <li><h3><a href="Sprints/Sprint%202">Sprint2 - SMART User Stories</a></h3></li>
     <ul>
-      <li>The team used Trello to create the user stories for the features that you have created already and for your future features.</li>
+      <li>Summary: The team used Trello to create the user stories for the features that you have created already and for your future features.</li>
       <li>SMART User Story Characteristics</li>
       <ul>
         <li>Specific</li>
@@ -66,7 +66,7 @@ Group project for ITCS 3155
     
   <li><h3><a href="Sprints/Sprint%204">Sprint4 - Testing</a></h3></li>
     <ul>
-      <li>For this milestone the team define your acceptance criteria for the user stories in your application. <b>Please see Sprint 4 Documentation for the acceptance criteria.</b></li>
+      <li>Summary: For this milestone the team define your acceptance criteria for the user stories in your application. <b>Please see Sprint 4 Documentation for the acceptance criteria.</b></li>
       <li>The team described the features and scenarios for testing all the user stories created.</li>
       <li><b>Testing Features and Steps</b></li>
       <img src = "Sprints/Sprint%204/FeaturesAndSteps.png"/>
@@ -76,19 +76,24 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%204/Sprint4StatusReport.pdf">Sprint 4 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%205">Sprint5 - Adding Feature</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%205">Sprint5 - Adding all Baseline Features</a></h3></li>
     <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
+      <li>Summary: The team completed working on the flask activity that would complete the baseline features of the notes application. These baseline features include adding, editing, deleting notes, comments, signing up and ligging in. Since that had all that features for this sprint we used that for submission for this week, but changed some of the elements so it would fit to our project. Some of the areas we had trouble with are completing some of the parts of the baseline features since errors would occur with typos, otherwise, there was not much trouble or confusion for the work of this week. </li>
+      <li>View all features at the end of the file</li>
+      <li>For more information about this sprint please view "Sprint 5 Team Status Report."</li>
+      
       <li><a href="Sprints/Sprint%205/Sprint5StatusReport.pdf">Sprint 5 Team Status Report</a></li>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%206">Sprint6 - Adding Dark Mode Feature</a></h3></li>
     <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
+      <li>Summary: For sprint 6 the team implemented two features into the project, the delete comment and searching note feature. </li>
+      <li><b>Delete Comment:</b></li><br>
+      <img src = "Sprints/Sprint%206/DeleteCommentFront.PNG"/>
+      <img src = "Sprints/Sprint%206/DeleteCommentFunction.PNG"/>
+      <li><b>Search Function</b></li><br>
+      <img src = "Sprints/Sprint%206/SearchBar.PNG"/>
+      <img src = "Sprints/Sprint%206/SearchFunction.PNG"/>
       <li><a href="Sprints/Sprint%206/Sprint6Documentation.pdf">Sprint 6 Documentation</a></li>
       <li><a href="Sprints/Sprint%206/Sprint6StatusReport.pdf">Sprint 6 Team Status Report</a></li>
     </ul>
