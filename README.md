@@ -6,7 +6,7 @@ Group project for ITCS 3155
 <p>The notes application is a Content Management System software program that provides an online environment and features for note keepers. While working on this project we use the Agile Method. The project was spit into seven sprints each being one week apart.</p>
 <h2>Sprints</h2>
 <ul>
-  <li><h3><a href="Sprints/Sprint%20\1">Sprint1 - Ethical Considerations & Front-end Design (Wireframing)</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%201">Sprint1 - Ethical Considerations & Front-end Design (Wireframing)</a></h3></li>
     <ul>
       <li><b>What are some ethical considerations of your product?</b><br>Ethical considerations of our product include enlisting login credential protocols to emphasize on security and privacy and the protection of users’ data, allowing a user to modify or delete their notes or property, utilizing html validation within our code to ensure input accuracy, and formatting our application favorably to our low-vision users.</li>
       <li><b>List of features</b></li>
