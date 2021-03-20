@@ -8,14 +8,25 @@ Group project for ITCS 3155
 <ul>
   <li><h3>Sprint1 - Ethical Considerations & Front-end Design (Wireframing)</h3></li>
     <ul>
-      <li>What are some ethical considerations of your product?<br>Ethical considerations of our product include enlisting login credential protocols to emphasize on security and privacy and the protection of users’ data, allowing a user to modify or delete their notes or property, utilizing html validation within our code to ensure input accuracy, and formatting our application favorably to our low-vision users.</li>
-      <li>List of features</li>
+      <li><b>What are some ethical considerations of your product?</b><br>Ethical considerations of our product include enlisting login credential protocols to emphasize on security and privacy and the protection of users’ data, allowing a user to modify or delete their notes or property, utilizing html validation within our code to ensure input accuracy, and formatting our application favorably to our low-vision users.</li>
+      <li><b>List of features</b></li>
       <ol>
         <li>Register User</li>
         <li>Login User</li>
+        <li>Create Note</li>
+        <li>Edit Note</li>
+        <li>Delete Note</li>
+        <li>View Notes List</li>
+        <li>Create Note Comment</li>
+        <li>Edit Note Comment</li>
+        <li>Delete Note Comment</li>
+        <li>Rate Note(Star/No Star)</li>
+        <li>Search Bar</li>
+        <li>Change Theme (Dark-Mode) </li>
       </ol>
-      <li>2</li>
-      <li>3</li>
+      <li>Li-Fi UI Prototype</li>
+      <li>Sprint 1 Documentation</li>
+      <li>Sprint 1 Team Status Report</li>
     </ul>
   
   <li><h3>Sprint2 - SMART User Stories</h3></li>
