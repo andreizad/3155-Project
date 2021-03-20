@@ -43,8 +43,8 @@ Group project for ITCS 3155
       </ul>
     <li><b>SMART User Stories:</b></li>
     <img src = "Sprints/Sprint%202/SMARTUserStories.png"/>
-      <li><a href="Sprints/Sprint%202/Sprint2Documentation.pdf">Sprint 1 Documentation</a></li>
-      <li><a href="Sprints/Sprint%202/Sprint2StatusReport.pdf">Sprint 1 Team Status Report</a></li>
+      <li><a href="Sprints/Sprint%202/Sprint2Documentation.pdf">Sprint 2 Documentation</a></li>
+      <li><a href="Sprints/Sprint%202/Sprint2StatusReport.pdf">Sprint 2 Team Status Report</a></li>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%203">Sprint3 - Data Flow Diagrams</a></h3></li>
@@ -60,6 +60,8 @@ Group project for ITCS 3155
       <img src = "Sprints/Sprint%203/UpdatedUI4.png"/>
       <img src = "Sprints/Sprint%203/UpdatedUI5.png"/>
       <img src = "Sprints/Sprint%203/UpdatedUI6.png"/>
+      <li><a href="Sprints/Sprint%203/Sprint3Documentation.pdf">Sprint 3 Documentation</a></li>
+      <li><a href="Sprints/Sprint%203/Sprint3StatusReport.pdf">Sprint 3 Team Status Report</a></li>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%204">Sprint4 - Automated Testing</a></h3></li>
@@ -67,6 +69,8 @@ Group project for ITCS 3155
       <li>1</li>
       <li>2</li>
       <li>3</li>
+      <li><a href="Sprints/Sprint%204/Sprint4Documentation.pdf">Sprint 4 Documentation</a></li>
+      <li><a href="Sprints/Sprint%204/Sprint4StatusReport.pdf">Sprint 4 Team Status Report</a></li>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%205">Sprint5 - Adding Feature</a></h3></li>
@@ -74,6 +78,7 @@ Group project for ITCS 3155
       <li>1</li>
       <li>2</li>
       <li>3</li>
+      <li><a href="Sprints/Sprint%205/Sprint5StatusReport.pdf">Sprint 5 Team Status Report</a></li>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%206">Sprint6 - Adding Dark Mode Feature</a></h3></li>
@@ -81,6 +86,8 @@ Group project for ITCS 3155
       <li>1</li>
       <li>2</li>
       <li>3</li>
+      <li><a href="Sprints/Sprint%206/Sprint6Documentation.pdf">Sprint 6 Documentation</a></li>
+      <li><a href="Sprints/Sprint%206/Sprint6StatusReport.pdf">Sprint 6 Team Status Report</a></li>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%207">Sprint7 - Adding Rating Feature</a></h3></li>
@@ -88,6 +95,7 @@ Group project for ITCS 3155
       <li>1</li>
       <li>2</li>
       <li>3</li>
+      <li><a href="Sprints/Sprint%207/Sprint7Documentation.pdf">Sprint 7 Documentation</a></li>
     </ul>
 </ul>
 
