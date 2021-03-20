@@ -27,45 +27,45 @@ Group project for ITCS 3155
       <li>Li-Fi UI Prototype</li><br>
       <img src = "Sprints/Sprint%201/WireFrame.png"/>
       <li><a href="Sprints/Sprint%201/Sprint1Documentation.pdf">Sprint 1 Documentation</a></li>
-      <li><a href="Sprints/Sprint%201/Sprint1StatusReport.pdf</a></li>
+      <li><a href="Sprints/Sprint%201/Sprint1StatusReport.pdf</a>Sprint 1 Team Status Report</li>
     </ul>
   
-  <li><h3>Sprint2 - SMART User Stories</h3></li>
+  <li><h3><a href="Sprints/Sprint%202">Sprint2 - SMART User Stories</a></h3></li>
     <ul>
       <li>1</li>
       <li>2</li>
       <li>3</li>
     </ul>
     
-  <li><h3>Sprint3 - Data Flow Diagrams</h3></li>
+  <li><h3><a href="Sprints/Sprint%203">Sprint3 - Data Flow Diagrams</a></h3></li>
     <ul>
       <li>1</li>
       <li>2</li>
       <li>3</li>
     </ul>
     
-  <li><h3>Sprint4 - Automated Testing</h3></li>
+  <li><h3><a href="Sprints/Sprint%204">Sprint4 - Automated Testing</a></h3></li>
     <ul>
       <li>1</li>
       <li>2</li>
       <li>3</li>
     </ul>
     
-  <li><h3>Sprint5 - Adding Feature</h3></li>
+  <li><h3><a href="Sprints/Sprint%205">Sprint5 - Adding Feature</a></h3></li>
     <ul>
       <li>1</li>
       <li>2</li>
       <li>3</li>
     </ul>
     
-  <li><h3>Sprint6 - Adding Dark Mode Feature</h3></li>
+  <li><h3><a href="Sprints/Sprint%206">Sprint6 - Adding Dark Mode Feature</a></h3></li>
     <ul>
       <li>1</li>
       <li>2</li>
       <li>3</li>
     </ul>
     
-  <li><h3>Sprint7 - Adding Rating Feature</h3></li>
+  <li><h3><a href="Sprints/Sprint%207">Sprint7 - Adding Rating Feature</a></h3></li>
     <ul>
       <li>1</li>
       <li>2</li>
