@@ -32,9 +32,17 @@ Group project for ITCS 3155
   
   <li><h3><a href="Sprints/Sprint%202">Sprint2 - SMART User Stories</a></h3></li>
     <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
+      <li>The team used Trello to create the user stories for the features that you have created already and for your future features.</li>
+      <li>SMART User Story Characteristics</li>
+      <ul>
+        <li>Specific</li>
+        <li>Measurable</li>
+        <li>Achievable</li>
+        <li>Relevant</li>
+        <li>Timeboxed</li>
+      </ul>
+    <li><b>SMART User Stories:</b></li>
+    <img src = "Sprints/Sprint%202/SMARTUserStories.png"/>
     </ul>
     
   <li><h3><a href="Sprints/Sprint%203">Sprint3 - Data Flow Diagrams</a></h3></li>
