@@ -64,11 +64,14 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%203/Sprint3StatusReport.pdf">Sprint 3 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%204">Sprint4 - Automated Testing</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%204">Sprint4 - Testing</a></h3></li>
     <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
+      <li>For this milestone the team define your acceptance criteria for the user stories in your application. <b>Please see Sprint 4 Documentation for the acceptance criteria.</b></li>
+      <li>The team described the features and scenarios for testing all the user stories created.</li>
+      <li><b>Testing Features and Steps</b></li>
+      <img src = "Sprints/Sprint%204/FeaturesAndSteps.png"/>
+      <li><b>Behavioral Testing</b></li>
+      <img src = "Sprints/Sprint%204/BehavioralTesting.png"/>
       <li><a href="Sprints/Sprint%204/Sprint4Documentation.pdf">Sprint 4 Documentation</a></li>
       <li><a href="Sprints/Sprint%204/Sprint4StatusReport.pdf">Sprint 4 Team Status Report</a></li>
     </ul>
