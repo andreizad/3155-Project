@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="UNCC Notes App">
+        <title>BlackJack Notes App</title>
+        <!-- styles -->
+        {% if session.get('userpreference') == 'dark' %}
+            <link rel="stylesheet" href="{{ url_for('static', filename='main_dark.css') }}">
+        {% else %}
+            <link rel="stylesheet" href="{{url_for('static', filename='main.css')}}">
+        {% endif %}
+
+
+
+    </head>
+    <body>
+    <div class="topnav">
+        <a class="active" href="{{url_for('index')}}">Home</a>
+        <a href="{{url_for('get_notes')}}">Notes</a>
+        {% if user %}
+        <a href="{{ url_for('logout') }}">Logout</a>
+        {% else %}
+        <a href="{{ url_for('login') }}" class="search-container">Login</a>
+        <a href="{{ url_for('register') }}" class="search-container">Register</a>
+        {% endif %}
+    </div>
+
+    <h1>Welcome {{user}} to the BlackJack Notes App!</h1>
+    <div class="body">
+        <h2>Use this site to maintain and organize your notes.</h2>
+
+        <h3>Course notes</h3>
+        <nav> <a href="/notes" class="button"> My notes </a> </nav>
+        <h3>To Do</h3>
+
+        <h3>Work notes</h3>
+    </div>
+
+    </body>
+</html>
