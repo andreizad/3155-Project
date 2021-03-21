@@ -113,11 +113,19 @@ Group project for ITCS 3155
     <li><h2><a href="Sprints/Final%20Submission/Documentation.pdf">Final Submission Documentation</a></h2></li>
 </ul>
 <h1>Application Screenshots</h1>
-<img src = "Sprints/Final%20Submission/Images/LoginPage.PNG"/>
-<img src = "Sprints/Final%20Submission/Images/RegisterPage.PNG"/>
+<h2>Log in Page</h2>
+<img src = "Sprints/Final%20Submission/Images/LoginPage.PNG"/><br>
+<h2>Register Page</h2>
+<img src = "Sprints/Final%20Submission/Images/RegisterPage.PNG"/><br>
+<h2>Index Page</h2>
+<img src = "Sprints/Final%20Submission/Images/IndexPage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/DarkIndexPage.PNG"/><br>
+<h2>Notes Page</h2>
 <img src = "Sprints/Final%20Submission/Images/NotesPage.PNG"/>
-<img src = "Sprints/Final%20Submission/Images/DarkNotesPage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/DarkNotesPage.PNG"/><br>
+<h2>Edit/Create Note Page</h2>
 <img src = "Sprints/Final%20Submission/Images/EditNotePage.PNG"/>
-<img src = "Sprints/Final%20Submission/Images/DarkEditNotePage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/DarkEditNotePage.PNG"/><br>
+<h2>Note/ID Page</h2>
 <img src = "Sprints/Final%20Submission/Images/NotePage.PNG"/>
-<img src = "Sprints/Final%20Submission/Images/DarkNotePage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/DarkNotePage.PNG"/><br>
