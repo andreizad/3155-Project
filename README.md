@@ -131,6 +131,11 @@ Group project for ITCS 3155
 <li><a href="Sprints/HTML%20Pages/new.html">New.html</a></li>
 <li><a href="Sprints/HTML%20Pages/note.html">Note.html</a></li>
 
+<h1>Static CSS Pages</h1>
+<li><a href="Sprints/Static/main.css">Main.css</a></li>
+<li><a href="Sprints/Static/main_dark.css">Main_Dark.css</a></li>
+<li><a href="Sprints/Static/forms.css">Forms.css</a></li>
+
 <h1>Application Screenshots</h1>
 <h2>Log in Page</h2>
 <img src = "Sprints/Final%20Submission/Images/LoginPage.PNG"/><br>
