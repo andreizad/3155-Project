@@ -10,7 +10,7 @@ Group project for ITCS 3155
 <p></p>
 <h2>Sprints</h2>
 <ul>
-  <li><h3><a href="Sprints/Sprint%201">Sprint1 - Ethical Considerations & Front-end Design (Wireframing)</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%201">Sprint 1 - Ethical Considerations & Front-end Design (Wireframing)</a></h3></li>
     <ul>
       <li><b>What are some ethical considerations of your product?</b><br>Ethical considerations of our product include enlisting login credential protocols to emphasize on security and privacy and the protection of users’ data, allowing a user to modify or delete their notes or property, utilizing html validation within our code to ensure input accuracy, and formatting our application favorably to our low-vision users.</li>
       <li><b>List of features</b></li>
@@ -34,7 +34,7 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%201/Sprint1StatusReport.pdf">Sprint 1 Team Status Report</a></li>
     </ul>
   
-  <li><h3><a href="Sprints/Sprint%202">Sprint2 - SMART User Stories</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%202">Sprint 2 - SMART User Stories</a></h3></li>
     <ul>
       <li>Summary: The team used Trello to create the user stories for the features that you have created already and for your future features.</li>
       <li>SMART User Story Characteristics</li>
@@ -51,7 +51,7 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%202/Sprint2StatusReport.pdf">Sprint 2 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%203">Sprint3 - Data Flow Diagrams</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%203">Sprint 3 - Data Flow Diagrams</a></h3></li>
     <ul>
       <li>Level 1 Data Flow Model</li>
       <img src = "Sprints/Sprint%203/Images/Level%201%20Data%20Flow%20and%20Models.jpg"/>
@@ -68,7 +68,7 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%203/Sprint3StatusReport.pdf">Sprint 3 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%204">Sprint4 - Testing</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%204">Sprint 4 - Testing</a></h3></li>
     <ul>
       <li>Summary: For this milestone the team define your acceptance criteria for the user stories in your application. <b>Please see Sprint 4 Documentation for the acceptance criteria.</b></li>
       <li>The team described the features and scenarios for testing all the user stories created.</li>
@@ -80,7 +80,7 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%204/Sprint4StatusReport.pdf">Sprint 4 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%205">Sprint5 - Adding all Baseline Features</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%205">Sprint 5 - Adding all Baseline Features</a></h3></li>
     <ul>
       <li>Summary: The team completed working on the flask activity that would complete the baseline features of the notes application. These baseline features include adding, editing, deleting notes, comments, signing up and ligging in. Since that had all that features for this sprint we used that for submission for this week, but changed some of the elements so it would fit to our project. Some of the areas we had trouble with are completing some of the parts of the baseline features since errors would occur with typos, otherwise, there was not much trouble or confusion for the work of this week. </li>
       <li>View all features at the end of the file</li>
@@ -88,7 +88,7 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%205/Sprint5StatusReport.pdf">Sprint 5 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%206">Sprint6 - Adding Search and Delete Comment Feature</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%206">Sprint 6 - Adding Search and Delete Comment Feature</a></h3></li>
     <ul>
       <li>Summary: For sprint 6 the team implemented two features into the project, the delete comment and searching note feature. </li>
       <li><b>Delete Comment Front-End</b></li><br>
@@ -103,7 +103,7 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%206/Sprint6StatusReport.pdf">Sprint 6 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%207">Sprint7 - Adding Dark Mode Feature</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%207">Sprint 7 - Adding Dark Mode Feature</a></h3></li>
     <ul>
       <li>For the final sprint we added the team added the darkmode feature</li>
       <li><b>Dark-Mode Front-End</b></li><br>
