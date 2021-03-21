@@ -104,7 +104,7 @@ Group project for ITCS 3155
       <li>For the final sprint we added the team added the darkmode feature</li>
       <li><b>Dark-Mode Front-End</b></li><br>
       <img src = "Sprints/Sprint%207/Images/DarkModeFrontEnd.PNG"/><br>
-      <li><b>Dark-Mode Button HTML</b></li><br>
+      <li><b>Dark-Mode HTML</b></li><br>
       <img src = "Sprints/Sprint%207/Images/DarkModeHTML.PNG"/><br>
       <li><b>Dark-Mode Back-End</b></li><br>
       <img src = "Sprints/Sprint%207/Images/DarkModeBackEnd.PNG"/>
