@@ -112,3 +112,12 @@ Group project for ITCS 3155
     </ul><br>
     <li><h2><a href="Sprints/Final%20Submission/Documentation.pdf">Final Submission Documentation</a></h2></li>
 </ul>
+<h1>Application Screenshots</h1>
+<img src = "Sprints/Final%20Submission/Images/LoginPage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/RegisterPage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/NotesPage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/DarkNotesPage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/EditNotePage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/DarkEditNotePage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/NotePage.PNG"/>
+<img src = "Sprints/Final%20Submission/Images/DarkNotePage.PNG"/>
