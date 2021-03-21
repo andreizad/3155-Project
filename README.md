@@ -3,7 +3,7 @@ Group project for ITCS 3155
 <h1>Black Jack Notes App</h1>
 <ul>
   <li>Repository Author: Andrei Zadorozhniy</li>
-  <li>Description: The notes application is a <b>Content Management System</b> software program that provides an online environment and features for note keepers. While working on this project we use the <b>Agile Method.</b> The project was spit into seven sprints each being one week apart. The team used Web-Framework <b>FLASK</b>, the Programming lanugage <b>Python</b>, and <b>MVC Design Pattern.</b></li>
+  <li>Description: The notes application is a <b>Content Management System</b> software program that provides an online environment and features for note keepers. While working on this project we use the <b>Agile Method.</b> The project was spit into seven sprints each being one week apart. The team used Web-Framework <b>FLASK</b>, the Programming lanugage <b>Python</b>, <b>MVC Design Pattern</b>, and <b>SQL Alchemy DB Toolkit</b></li>
 </ul>
 <p></p>
 <p>Team 21: Andrei Zadorozhniy, Brijesh Patel, Albert Oh, Cameron Ahn</p>
@@ -120,10 +120,16 @@ Group project for ITCS 3155
 <h1>Back-End Code</h1>
 <li><a href="Sprints/BackEndCode/flask06.py">Flask.py</a></li>
 <li><a href="Sprints/BackEndCode/database.py">DataBase.py</a></li>
+<li><a href="Sprints/BackEndCode/forms.py">Forms.py</a></li>
+<li><a href="Sprints/BackEndCode/models.py">Models.py</a></li>
 
 <h1>HTML Pages</h1>
+<li><a href="Sprints/HTML%20Pages/login.html">Login.html</a></li>
+<li><a href="Sprints/HTML%20Pages/register.html">Register.html</a></li>
 <li><a href="Sprints/HTML%20Pages/index.html">Index.html</a></li>
-<li><a href="Sprints/HTML%20Pages/login.html">Login.py</a></li>
+<li><a href="Sprints/HTML%20Pages/notes.html">Notes.html</a></li>
+<li><a href="Sprints/HTML%20Pages/new.html">New.html</a></li>
+<li><a href="Sprints/HTML%20Pages/note.html">Note.html</a></li>
 
 <h1>Application Screenshots</h1>
 <h2>Log in Page</h2>
