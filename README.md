@@ -111,12 +111,3 @@ Group project for ITCS 3155
       <li><a href="Sprints/Sprint%207/Images/Sprint7Documentation.pdf">Sprint 7 Documentation</a></li>
     </ul>
 </ul>
-
-
-
-<h1></h1>
-<h2></h2>
-<h3></h3>
-<p></p>
-<li></li>
-<ul></ul>
