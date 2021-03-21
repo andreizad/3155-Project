@@ -1,9 +1,13 @@
 # 3155-Project
 Group project for ITCS 3155
 <h1>Black Jack Notes App</h1>
-<p>Repository Author: Andrei Zadorozhniy</p>
+<ul>
+  <li>Repository Author: Andrei Zadorozhniy</li>
+  <li>Description: The notes application is a <b>Content Management System</b> software program that provides an online environment and features for note keepers. While working on this project we use the <b>Agile Method.</b> The project was spit into seven sprints each being one week apart. The team used Web-Framework <b>FLASK</b>, the Programming lanugage <b>Python</b>, and <b>MVC Design Pattern.</b></li>
+</ul>
+<p></p>
 <p>Team 21: Andrei Zadorozhniy, Brijesh Patel, Albert Oh, Cameron Ahn</p>
-<p>The notes application is a Content Management System software program that provides an online environment and features for note keepers. While working on this project we use the Agile Method. The project was spit into seven sprints each being one week apart.</p>
+<p></p>
 <h2>Sprints</h2>
 <ul>
   <li><h3><a href="Sprints/Sprint%201">Sprint1 - Ethical Considerations & Front-end Design (Wireframing)</a></h3></li>
@@ -22,7 +26,7 @@ Group project for ITCS 3155
         <li>Delete Note Comment</li>
         <li>Rate Note(Star/No Star)</li>
         <li>Search Bar</li>
-        <li>Change Theme (Dark-Mode) </li>
+        <li>Change Theme (Dark-Mode)</li>
       </ol>
       <li>Li-Fi UI Prototype</li><br>
       <img src = "Sprints/Sprint%201/Images/WireFrame.png"/>
