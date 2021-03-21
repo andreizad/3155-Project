@@ -25,7 +25,7 @@ Group project for ITCS 3155
         <li>Change Theme (Dark-Mode) </li>
       </ol>
       <li>Li-Fi UI Prototype</li><br>
-      <img src = "Sprints/Sprint%201/WireFrame.png"/>
+      <img src = "Sprints/Sprint%201/Images/WireFrame.png"/>
       <li><a href="Sprints/Sprint%201/Sprint1Documentation.pdf">Sprint 1 Documentation</a></li>
       <li><a href="Sprints/Sprint%201/Sprint1StatusReport.pdf">Sprint 1 Team Status Report</a></li>
     </ul>
@@ -42,7 +42,7 @@ Group project for ITCS 3155
         <li>Timeboxed</li>
       </ul>
     <li><b>SMART User Stories:</b></li>
-    <img src = "Sprints/Sprint%202/SMARTUserStories.png"/>
+    <img src = "Sprints/Sprint%202/Images/SMARTUserStories.png"/>
       <li><a href="Sprints/Sprint%202/Sprint2Documentation.pdf">Sprint 2 Documentation</a></li>
       <li><a href="Sprints/Sprint%202/Sprint2StatusReport.pdf">Sprint 2 Team Status Report</a></li>
     </ul>
@@ -50,16 +50,16 @@ Group project for ITCS 3155
   <li><h3><a href="Sprints/Sprint%203">Sprint3 - Data Flow Diagrams</a></h3></li>
     <ul>
       <li>Level 1 Data Flow Model</li>
-      <img src = "Sprints/Sprint%203/Level%201%20Data%20Flow%20and%20Models.jpg"/>
+      <img src = "Sprints/Sprint%203/Images/Level%201%20Data%20Flow%20and%20Models.jpg"/>
       <li>Model Prototype</li>
-      <img src = "Sprints/Sprint%203/modelPseudocode.PNG"/>
+      <img src = "Sprints/Sprint%203/Images/modelPseudocode.PNG"/>
       <li>Lo-Fi Updated UI Prototype</li>
-      <img src = "Sprints/Sprint%203/UpdatedUI1.png"/>
-      <img src = "Sprints/Sprint%203/UpdatedUI2.png"/>
-      <img src = "Sprints/Sprint%203/UpdatedUI3.png"/>
-      <img src = "Sprints/Sprint%203/UpdatedUI4.png"/>
-      <img src = "Sprints/Sprint%203/UpdatedUI5.png"/>
-      <img src = "Sprints/Sprint%203/UpdatedUI6.png"/>
+      <img src = "Sprints/Sprint%203/Images/UpdatedUI1.png"/>
+      <img src = "Sprints/Sprint%203/Images/UpdatedUI2.png"/>
+      <img src = "Sprints/Sprint%203/Images/UpdatedUI3.png"/>
+      <img src = "Sprints/Sprint%203/Images/UpdatedUI4.png"/>
+      <img src = "Sprints/Sprint%203/Images/UpdatedUI5.png"/>
+      <img src = "Sprints/Sprint%203/Images/UpdatedUI6.png"/>
       <li><a href="Sprints/Sprint%203/Sprint3Documentation.pdf">Sprint 3 Documentation</a></li>
       <li><a href="Sprints/Sprint%203/Sprint3StatusReport.pdf">Sprint 3 Team Status Report</a></li>
     </ul>
@@ -69,9 +69,9 @@ Group project for ITCS 3155
       <li>Summary: For this milestone the team define your acceptance criteria for the user stories in your application. <b>Please see Sprint 4 Documentation for the acceptance criteria.</b></li>
       <li>The team described the features and scenarios for testing all the user stories created.</li>
       <li><b>Testing Features and Steps</b></li>
-      <img src = "Sprints/Sprint%204/FeaturesAndSteps.png"/>
+      <img src = "Sprints/Sprint%204/Images/FeaturesAndSteps.png"/>
       <li><b>Behavioral Testing</b></li>
-      <img src = "Sprints/Sprint%204/BehavioralTesting.png"/>
+      <img src = "Sprints/Sprint%204/Images/BehavioralTesting.png"/>
       <li><a href="Sprints/Sprint%204/Sprint4Documentation.pdf">Sprint 4 Documentation</a></li>
       <li><a href="Sprints/Sprint%204/Sprint4StatusReport.pdf">Sprint 4 Team Status Report</a></li>
     </ul>
@@ -88,13 +88,13 @@ Group project for ITCS 3155
     <ul>
       <li>Summary: For sprint 6 the team implemented two features into the project, the delete comment and searching note feature. </li>
       <li><b>Delete Comment Front-End</b></li><br>
-      <img src = "Sprints/Sprint%206/DeleteCommentFront.PNG"/>
+      <img src = "Sprints/Sprint%206/Images/DeleteCommentFront.PNG"/>
       <li><b>Delete Comment Back-End</b></li><br>
-      <img src = "Sprints/Sprint%206/DeleteCommentFunction.PNG"/>
+      <img src = "Sprints/Sprint%206/Images/DeleteCommentFunction.PNG"/>
       <li><b>Search Feature Front-End</b></li><br>
-      <img src = "Sprints/Sprint%206/SearchBar.PNG"/><br>
+      <img src = "Sprints/Sprint%206/Images/SearchBar.PNG"/><br>
       <li><b>Search Feature Back-End</b></li><br>
-      <img src = "Sprints/Sprint%206/SearchFunction.PNG"/>
+      <img src = "Sprints/Sprint%206/Images/SearchFunction.PNG"/>
       <li><a href="Sprints/Sprint%206/Sprint6Documentation.pdf">Sprint 6 Documentation</a></li>
       <li><a href="Sprints/Sprint%206/Sprint6StatusReport.pdf">Sprint 6 Team Status Report</a></li>
     </ul>
