@@ -81,29 +81,34 @@ Group project for ITCS 3155
       <li>Summary: The team completed working on the flask activity that would complete the baseline features of the notes application. These baseline features include adding, editing, deleting notes, comments, signing up and ligging in. Since that had all that features for this sprint we used that for submission for this week, but changed some of the elements so it would fit to our project. Some of the areas we had trouble with are completing some of the parts of the baseline features since errors would occur with typos, otherwise, there was not much trouble or confusion for the work of this week. </li>
       <li>View all features at the end of the file</li>
       <li>For more information about this sprint please view "Sprint 5 Team Status Report."</li>
-      
       <li><a href="Sprints/Sprint%205/Sprint5StatusReport.pdf">Sprint 5 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%206">Sprint6 - Adding Dark Mode Feature</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%206">Sprint6 - Adding Search and Delete Comment Feature</a></h3></li>
     <ul>
       <li>Summary: For sprint 6 the team implemented two features into the project, the delete comment and searching note feature. </li>
-      <li><b>Delete Comment:</b></li><br>
+      <li><b>Delete Comment Front-End</b></li><br>
       <img src = "Sprints/Sprint%206/DeleteCommentFront.PNG"/>
+      <li><b>Delete Comment Back-End</b></li><br>
       <img src = "Sprints/Sprint%206/DeleteCommentFunction.PNG"/>
-      <li><b>Search Function</b></li><br>
-      <img src = "Sprints/Sprint%206/SearchBar.PNG"/>
+      <li><b>Search Feature Front-End</b></li><br>
+      <img src = "Sprints/Sprint%206/SearchBar.PNG"/><br>
+      <li><b>Search Feature Back-End</b></li><br>
       <img src = "Sprints/Sprint%206/SearchFunction.PNG"/>
       <li><a href="Sprints/Sprint%206/Sprint6Documentation.pdf">Sprint 6 Documentation</a></li>
       <li><a href="Sprints/Sprint%206/Sprint6StatusReport.pdf">Sprint 6 Team Status Report</a></li>
     </ul>
     
-  <li><h3><a href="Sprints/Sprint%207">Sprint7 - Adding Rating Feature</a></h3></li>
+  <li><h3><a href="Sprints/Sprint%207">Sprint7 - Adding Dark Mode Feature</a></h3></li>
     <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
-      <li><a href="Sprints/Sprint%207/Sprint7Documentation.pdf">Sprint 7 Documentation</a></li>
+      <li>For the final sprint we added the team added the darkmode feature</li>
+      <li><b>Dark-Mode Front-End</b></li><br>
+      <img src = "Sprints/Sprint%207/Images/DarkModeFrontEnd.PNG"/><br>
+      <li><b>Dark-Mode Button HTML</b></li><br>
+      <img src = "Sprints/Sprint%207/Images/DarkModeHTML.PNG"/><br>
+      <li><b>Dark-Mode Back-End</b></li><br>
+      <img src = "Sprints/Sprint%207/Images/DarkModeBackEnd.PNG"/>
+      <li><a href="Sprints/Sprint%207/Images/Sprint7Documentation.pdf">Sprint 7 Documentation</a></li>
     </ul>
 </ul>
 
