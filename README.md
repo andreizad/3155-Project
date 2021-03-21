@@ -109,5 +109,6 @@ Group project for ITCS 3155
       <li><b>Dark-Mode Back-End</b></li><br>
       <img src = "Sprints/Sprint%207/Images/DarkModeBackEnd.PNG"/>
       <li><a href="Sprints/Sprint%207/Images/Sprint7Documentation.pdf">Sprint 7 Documentation</a></li>
-    </ul>
+    </ul><br>
+    <li><h2><a href="Sprints/Final%20Subbmission/Documentation.pdf">Final Submission Documentation</a></h2></li>
 </ul>
